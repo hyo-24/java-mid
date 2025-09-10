@@ -1,4 +1,4 @@
-package time.practice;
+package time.practice.dateAndTime;
 
 import java.time.DayOfWeek;
 import java.time.LocalDate;
