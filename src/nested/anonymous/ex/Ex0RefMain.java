@@ -13,5 +13,5 @@ public class Ex0RefMain {
         hello("hello Spring");
     }
 
-}
+} // 공통적인건 상속으로 만들라고 배워서 이렇게 입력하는 방법을 생각 못했다.
 
